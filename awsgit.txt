@@ -1,2 +1,2 @@
-How to ensure that no security credentials are ever committed to the code repository ? 
+How to ensure that no security credentials are ever committed to the code repository ? and this
 
